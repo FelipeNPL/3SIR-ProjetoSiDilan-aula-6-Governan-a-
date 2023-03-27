@@ -1,1 +1,2 @@
 #Guarde nessa pasta somente documentos de especificação do projeto como planos de projeto, modelos de dados, modelos de software, editados em ferramentas específicas como o OracleDataModeler, Astah, BizagiModeler, etc.
+NÃO SEJA GOIABA DE MEXER DIRETO NA DEVELOP OU NA MAIN!!!!!!!!
